@@ -1,4 +1,4 @@
-# Call_Centre_Trends_PwC
+# Call_Center_Trends_PwC
 ## Introduction
 This project aims to create a Power BI dashboard that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
 
