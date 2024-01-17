@@ -27,4 +27,5 @@ The following measures were created using DAX:
 -     Avg Satisfaction Rate = CALCULATE(AVERAGE(Call_Center_Dataset[Satisfaction rating]), FILTER(Call_Center_Dataset, NOT ISBLANK(Call_Center_Dataset[Avg Talk Date])))
 -     Avg speed of answer in sec = CALCULATE(AVERAGE(Call_Center_Dataset[Speed of answer in seconds]), FILTER(Call_Center_Dataset, NOT ISBLANK(Call_Center_Dataset[Avg Talk Date])))
 ## Data Visualization
+You can find the dashboard [here](https://www.novypro.com/project/callcentertrendspwc)
 ![dashboard](https://github.com/SorathF/PWC_Call_Centre_Trends/blob/289d5b4fddcc8f330faf812ab5b60ddbe9045aa0/Call%20center%20trend.png)
